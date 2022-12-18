@@ -1,1 +1,1 @@
-# java-swing-bingo
+# java-swing-tombala
